@@ -1,6 +1,5 @@
 # hundir-la-flota
-https://raw.githubusercontent.com/Chc1993/hundir-la-flota/master/1.png
-
+[![1.png](https://i.postimg.cc/zf6q8Vmb/1.png)](https://postimg.cc/jWHphqSt)
 
 Ejercicio entregable para el curso de Data Science de The Bridge a través del cual se ha creado el juego Hundir la flota con Python por el cual el usuario se enfrenta a la máquina.
 
