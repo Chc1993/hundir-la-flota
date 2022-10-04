@@ -9,7 +9,7 @@ barco_tocado = "@"
 disparo_fallido = 'X'
 #Diccionario para crear los barcos diferenciado por número de barcos y su tamaño
 barcos = {"Barco de 1 eslora": (4, 1), "Barco de 2 esloras" : (3, 2), "Barco de 3 esloras": (2, 3), "Barco de 4 esloras" : (1, 4)}
-
+#############
 #definición d las clases
 class barco:
     '''
